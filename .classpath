@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/java/lib/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="D:/MYECLIPSE/documents/shopping/alipay-sdk-java20141227220101.jar"/>
+	<classpathentry kind="lib" path="D:/MYECLIPSE/documents/shopping/alipay-sdk-java20141227220101-source.jar"/>
+	<classpathentry kind="lib" path="D:/MYECLIPSE/documents/shopping/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/MYECLIPSE/documents/shopping/commons-logging-1.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/YeePay_HTMLcommon_V3.0.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/log4j-1.2.9.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>

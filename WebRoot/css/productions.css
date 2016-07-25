@@ -1,0 +1,40 @@
+	*{
+	
+	margin:0;
+	padding:0;
+	}
+	
+	#production_show
+	{
+	
+	
+	width:800px;
+	height:500px;
+	margin:80px auto;
+	position:relative;	}
+	#show_left
+	{
+	width:200px;
+	height:500px;
+
+	position:absolute;}
+	#show_right
+	{
+	text-align:center;
+
+	width:600px;
+	height:500px;
+
+	position:absolute;
+	margin-left:200px;
+	
+	}
+	#show_right table{
+	
+	margin-top:50px;
+	margin-left:20px;
+	
+	}
+
+	
+	
